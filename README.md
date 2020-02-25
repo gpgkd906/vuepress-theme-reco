@@ -58,20 +58,6 @@ yarn dev
 yarn build
 ```
 
-## Remind
-
-**首页新增 “华为” 相关文案，请允许我以这样的方式支持 “华为”。**
-
-## Preview
-
-![size.png](https://i.loli.net/2020/01/13/nCbXp13lRG2TNeD.png)
-
-![style.png](https://i.loli.net/2020/01/13/ke1VirShQRLnEd7.png)
-
-![dark.png](https://i.loli.net/2020/01/13/Lj6XbwdmDFCYH9k.png)
-
-![home.png](https://i.loli.net/2020/01/13/nra3kbYSlxojmw4.png)
-
 ## Contributors
 
 **衷心感谢为此项目贡献过宝贵代码的朋友们**

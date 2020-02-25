@@ -118,13 +118,13 @@ export default {
           }
         }
         .title {
-          color $accentColor
+          color var(--text-color)
         }
       }
       .date {
         width 40px
         line-height 30px
-        color $textColorSub
+        color var(--text-color)
         font-size 12px
         &::before {
           content: " ";

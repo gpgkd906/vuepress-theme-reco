@@ -32,7 +32,7 @@ const modeOptions = {
     '--background-color': '#25272a',
     '--box-shadow': '0 1px 6px 0 rgba(0, 0, 0, .9)',
     '--box-shadow-hover': '0 2px 26px 0 rgba(0, 0, 0, .9)',
-    '--text-color': '#aaa',
+    '--text-color': '#fff',
     '--border-color': 'rgba(0, 0, 0, .3)',
     '--code-color': 'rgba(0, 0, 0, .3)',
     '--mask-color': '#000'

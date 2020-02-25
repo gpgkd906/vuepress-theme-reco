@@ -116,7 +116,7 @@ export default {
         &:hover
           color $accentColor
         &.router-link-active
-          color $accentColor
+          color var(--text-color)
           &::after
             content ""
             width 0

@@ -164,7 +164,7 @@ export default {
     &:hover, &.router-link-active
       color $accentColor
       .iconfont
-        color $accentColor
+        color var(--text-color)
   .nav-item
     position relative
     display inline-block
